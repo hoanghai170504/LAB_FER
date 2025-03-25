@@ -1,0 +1,2 @@
+export const GOOGLE_CLIENT_ID = "97056897827-7h2ihpson7g6o6sdko2pd0nolbot2lvl.apps.googleusercontent.com"; // Thay thế bằng Client ID của bạn
+export const GOOGLE_CLIENT_SECRET = "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"; // Thay thế bằng Client Secret của bạn 
